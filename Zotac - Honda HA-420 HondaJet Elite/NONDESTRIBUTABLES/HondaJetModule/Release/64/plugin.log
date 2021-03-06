@@ -1,0 +1,42 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\ctgmath(23,22): warning C4996: '_Header_ctgmath': warning STL4004: <ccomplex>, <cstdalign>, <cstdbool>, and <ctgmath> are deprecated in C++17. You can define _SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(203,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2327,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2328,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2329,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2330,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2483,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2537,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2541,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2545,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2549,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2553,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2557,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2606,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2607,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2613,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2614,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2615,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2748,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2749,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2757,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2758,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2759,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2764,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2350,26): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(2776,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(4420,3): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(4880,27): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\NONDESTRIBUTABLES\HondaJetModule\Main.cpp(3440): message : see reference to function template instantiation '_OutIt *std::fill_n<float*,int,int>(_OutIt,const _Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+     Creating library .\Release\64\Hello-World-SDK-3.lib and object .\Release\64\Hello-World-SDK-3.exp
+  plugin.vcxproj -> C:\X-Plane 11\Aircraft\Addon\Zotac - Honda HA-420 HondaJet Elite v1.0.0\plugins\HondaJetModule\64\win.xpl
