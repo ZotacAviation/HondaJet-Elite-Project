@@ -1,0 +1,20 @@
+{c85adf86-b9cc-496c-a6ce-aed42b8b069b} event:/n1bl
+{56507340-cdd7-4a6f-a303-c7bc02a683c7} event:/n1br
+{bee1f758-d209-49f7-a36c-d4e9bfbb619f} event:/n1l
+{ab2a54f8-cc7a-4c6e-bb80-fead73c5e306} event:/n1r
+{dda0c5c2-1fc2-49ff-9f3c-4a8a2de4f367} event:/n2l
+{03e8b8aa-70bb-414f-bf14-8675708e8c5f} event:/n2r
+{195dd3d7-05b5-4ca9-a8e1-20c8c8ca9a59} event:/whinel
+{0c90ee3f-b04f-4f88-90d6-335003d459eb} event:/whiner
+{9f08114d-36ec-44cc-b8bf-b2babda09f9e} bus:/
+{7f7c05a4-e05a-4d44-94fe-d4691147a9b7} bus:/Master
+{e3492bec-f854-4fbb-b2bc-23586269032e} bus:/Master/Copilot
+{a5a85a81-afd5-4425-9dc2-6e50f7776e6a} bus:/Master/Exterior Processed
+{06db5351-0b2f-4648-b97a-a33b40a00e11} bus:/Master/Exterior Processed/Aircraft
+{b6c156f1-9861-405c-a622-92b2ab8010a7} bus:/Master/Exterior Processed/Environment
+{8dbbc9d7-a954-4ed0-b1f1-f8111b03cbd1} bus:/Master/Exterior Unprocessed
+{751f5066-4651-4afb-a410-4cb9db0894c9} bus:/Master/Interior
+{d8526059-b27c-4eae-9b14-a1ee1cb3dfa1} bus:/Master/Radios
+{77575f3b-b9cd-4bff-9056-637cff744a14} bus:/Master/UI
+{3abb6c5a-71a1-45cc-9ee5-51886b768d91} snapshot:/ExteriorVInterior
+{8dc712a6-f055-4a8f-bba2-ebe86050d540} bank:/Master Bank
