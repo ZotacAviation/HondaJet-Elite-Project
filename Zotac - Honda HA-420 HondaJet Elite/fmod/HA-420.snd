@@ -1,0 +1,108 @@
+A
+1000
+ACF_SOUNDS
+
+#############################################################################
+#                                                                           #
+#    Honda HA-420 HondaJet Elite by ZotacTheAviator (ZotacAviation#9949)    #
+#                                                                           #
+#############################################################################
+
+#####################
+#                   #
+#    Sound Space    #
+#                   #
+#####################
+
+BEGIN_SOUND_SPACE
+	SOUND_INDEX 0
+	BLEND_DEPTH 0.3
+	AABB -0.93 -0.25 -4.90 0.93 1.80 2.00
+END_SOUND_SPACE
+
+#########################
+#                       #
+#    Mixer Snapshots    #
+#                       #
+#########################
+
+BEGIN_SOUND_ATTACHMENT
+	SNAPSHOT_NAME /ExteriorVInterior
+	EVENT_ALWAYS 
+END_SOUND_ATTACHMENT
+
+#################
+#               #
+#    Engines    #
+#               #
+#################
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n1bl
+	VEH_PART engine 0
+	PARAM_DREF_IDX 0
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[0] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n1br
+	VEH_PART engine 1
+	PARAM_DREF_IDX 1
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[1] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n1l
+	VEH_PART engine 0
+	PARAM_DREF_IDX 0
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[0] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n1r
+	VEH_PART engine 1
+	PARAM_DREF_IDX 1
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[1] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n2l
+	VEH_PART engine 0
+	PARAM_DREF_IDX 0
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N2_percent[0] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /n2r
+	VEH_PART engine 1
+	PARAM_DREF_IDX 1
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N2_percent[1] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /whinel
+	VEH_PART engine 0
+	PARAM_DREF_IDX 0
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[0] > 0
+END_SOUND_ATTACHMENT
+
+BEGIN_SOUND_ATTACHMENT
+	EVENT_NAME /whiner
+	VEH_PART engine 1
+	PARAM_DREF_IDX 1
+	EVENT_ALLOWED_FOR_AI
+	EVENT_START_COND sim/cockpit2/engine/indicators/N1_percent[1] > 0
+END_SOUND_ATTACHMENT
+
+#############################################################################
+#                                                                           #
+#    Honda HA-420 HondaJet Elite by ZotacTheAviator (ZotacAviation#9949)    #
+#                                                                           #
+#############################################################################
