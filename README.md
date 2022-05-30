@@ -6,4 +6,4 @@ By Zotac Innovations
 ###### Discord: ZotacAviation#9949
 
 *Copyright © by ZotacTheAviator (ZotacAviation)*<br/>
-All rights reserved. No part of this program may be listed or published to any publicly accessible location.
+All rights reserved.
